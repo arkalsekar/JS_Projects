@@ -1,0 +1,25 @@
+#typedtext {
+    font-family: 'Nanum Gothic', sans-serif;
+    /* color: #0a0a1b; */
+    color: rgb(13, 5, 44);
+  }
+
+  #visiontext {
+    /* font-family: 'Holtwood One SC', serif; */
+
+    font-family: 'Nanum Gothic', sans-serif;
+    /* color: #0a0a1b; */
+    color: rgb(13, 5, 44);
+  }
+
+  #footercolor {
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+
+  #darkcolor {
+    color: darkblue;
+  }
+
+  #darkcolors {
+    color: darkblue;
+  }
