@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    /* background-color: antiquewhite; */
+    /* justify-content: center;
+    align-items: center; */
+}
+
+#bulb {
+    height: 200px;
+    width: 200px;
+}
+
+.mainContainer {
+    display: flex;
+    /* background-color: aqua; */
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container {
+    display: flex;
+    
+}
+
+#bulb {
+    border: 3px solid black;
+    border-style: dashed;
+    padding: 45px;
+    border-radius: 10px;
+}
+
+button {
+    color: aliceblue;
+    height: 35px;
+    width: 75px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    margin-left: 53px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+#turnOff {
+    background-color: rgb(221, 26, 26);
+}
+#turnOn {    
+    background-color: rgb(17, 211, 17);
+}
+
+button:hover {
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+}
